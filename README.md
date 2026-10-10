@@ -14,3 +14,4 @@ Enhanced Panorama UI for CS:GO
 * **IlluMinAty** - Author
 * **Parker** - Voting screen scrollbar
 * **Slippi** - Main Menu backgrounds
+* **Mikko Kokko** - csgo_gc
